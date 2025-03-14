@@ -1,17 +1,16 @@
-## Hi, Im Isuru Hollupathirage
+## Hi, I'm Isuru Hollupathirage
 
-🧠 Digital System & Service Development Master Student
-Im interested in Future Technologies:
+🧠 **Digital System & Service Development Master Student**  
+I'm interested in Future Technologies:
 
- 🚀 – space tech and futuristic advancements
- 🤖  – AI and robotics
- 🧠💡 – AI and innovative ideas
- 🌐 – the digital world and the internet
- 🔮 – futuristic predictions
- 📡 – communication and space tech
- 🛸 – advanced and unknown technology
- ⚡ – energy and futuristic power sources
- 
+- 🚀 – Space tech and futuristic advancements  
+- 🤖 – AI and robotics  
+- 🧠💡 – AI and innovative ideas  
+- 🌐 – The digital world and the internet  
+- 🔮 – Futuristic predictions  
+- 📡 – Communication and space tech  
+- 🛸 – Advanced and unknown technology  
+- ⚡ – Energy and futuristic power sources  
 
 <img align="right" width="400" src="https://i.gifer.com/6tXM.gif" alt="Coding">
 
